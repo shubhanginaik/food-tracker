@@ -1,0 +1,20 @@
+{
+  "name": "food-tacker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@skalwar/simple_number_formatter": "^1.0.1",
+    "chart.js": "^3.5.1",
+    "parcel": "^2.0.0-rc.0",
+    "snackbar": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SN",
+  "license": "ISC"
+}
